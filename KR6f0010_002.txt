@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:42.544222
+#+DATE: 2015-08-30 20:00:44.428600
 #+TITLE: 文殊師利佛土嚴淨經
 #+PROPERTY: CBETA_ID T11n0318
 #+PROPERTY: ID KR6f0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 318
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0010_T_000-0890c>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0010_T_002-0896b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《文殊師利佛土嚴淨經》卷下¶
+《文殊師利佛土嚴淨經》卷下¶
 ¶
 西晉月氏國三藏竺法護譯¶
 
