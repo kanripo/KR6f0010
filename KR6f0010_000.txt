@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 文殊師利佛土嚴淨經
+#+DATE: 2015-08-30 20:00:42.775987
+#+PROPERTY: JUAN 0
